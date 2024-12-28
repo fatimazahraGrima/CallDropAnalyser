@@ -137,6 +137,17 @@ Actuellement, le frontend n'est pas encore implémenté dans ce projet, mais il 
    - Backend : [http://localhost:8080](http://localhost:8080)
 
 4. Assurez-vous que la base de données est correctement configurée dans `application.properties`.
+## Video Demonstration
+
+
+https://github.com/user-attachments/assets/c62bd298-2440-4236-b06f-bf2db63f99cb
+
+
+## Test avec Docker
+
+
+https://github.com/user-attachments/assets/248cc382-ab2d-40b9-9e92-6f6bf65f719b
+
 
 ## Utilisation
 
