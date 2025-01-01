@@ -82,8 +82,22 @@ volumes:
 ```
 
 ## Frontend
+rontend
+Technologies utilisées :
 
-Actuellement, le frontend n'est pas encore implémenté dans ce projet, mais il est prévu d'utiliser Angular ou React pour développer une interface utilisateur réactive et intuitive.
+HTML5 : Pour structurer les pages et intégrer les fonctionnalités interactives.
+CSS3 : Pour styliser et personnaliser l'apparence des pages.
+Composants principaux :
+
+Carte interactive : Affichage des appels interrompus sur une carte.
+Tableau ou graphiques : Présentation des statistiques des appels (taux d'interruption, zones affectées).
+Formulaire : Pour la génération ou la visualisation des rapports.
+Caractéristiques :
+
+Design responsive pour une utilisation sur mobile et desktop.
+Interface intuitive pour naviguer facilement entre les sections (statistiques, carte, rapports).
+Utilisation de transitions et animations CSS pour une meilleure expérience utilisateur.
+
 
 ## Backend
 
