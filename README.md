@@ -17,7 +17,7 @@ CallDropAnalyzer est une application innovante pour analyser les causes des inte
 
 ## Architecture Logicielle
 
-L'application repose sur une architecture Spring Boot pour le backend, avec une base de données MySQL, et une interface frontend qui pourra être développée dans un futur proche. Le projet utilise des conteneurs Docker pour une déploiement simple et efficace.
+![image](https://github.com/user-attachments/assets/fb29e095-b33c-4e46-aad6-c60f25aec04d)
 
 ## Configuration Docker
 
